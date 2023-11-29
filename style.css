@@ -67,6 +67,8 @@ button{
 
 button:hover{
     filter: brightness(130%);
+    color: #000;
+    background-color: white;
 }
 
 button:active{
@@ -77,6 +79,7 @@ button:active{
 .fa-x-twitter{
     font-size: 1.5rem;
 }
+
 
 @media screen and (max-width:1000px){
     .quote-container{
